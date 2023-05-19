@@ -79,22 +79,3 @@ Here are some ideas to get you started:
 ## 💬 Contacts
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/DomenicoCacace)
 [![image](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:domenico.cacace+ghreadme@protonmail.com)
-
-
-
-
-
-##  My GitHub stats
-<!-- GitHub stats -->
-<details open>
-  <summary>GitHub stats</summary>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=DomenicoCacace&count_private=true&show_icons=true&theme=dark">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomenicoCacace&layout=compact&langs_count=10&theme=dark">
-    </a>
-  </div>
-</details>
-
