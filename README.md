@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 </h2>
 
 ## <code>whoami</code>
-🙋‍♂️ I'm a freshly graduate (MSc) Computer Engineer from Politecnico di Milano
+🔭 I currently work as a Firmware Engineer at Pirelli on the [CyberTire](https://www.pirelli.com/tyres/en-ww/car/tech-and-knowledge/cyber-tyre) project
+
+🙋‍♂️ I graduated (MSc) in Computer Engineer from Politecnico di Milano
 
 📚 I'm mainly interested in Computer Security and Cryptography, in particular to side-channel attacks and countermeasures
 
